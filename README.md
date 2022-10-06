@@ -7,6 +7,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin3005&" alt="ashwin3005" /></p>
 
+[![Ashwin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashwin3005&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
