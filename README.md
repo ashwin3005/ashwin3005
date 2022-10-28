@@ -53,7 +53,7 @@
     </a>-->
 </p>
 <br/>
-<h2 align="center">My Badges</h2>
+<h2 align="center">Badges from Hacktoberfest</h2>
 <!-- This is holopin badges -->
 
 [![@ashwin3005's Holopin board](https://holopin.io/api/user/board?user=ashwin3005)](https://holopin.io/@ashwin3005)
